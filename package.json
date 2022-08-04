@@ -1,0 +1,17 @@
+{
+  "name": "plh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.24.2",
+    "lighthouse": "^9.6.5",
+    "playwright": "^1.24.2",
+    "playwright-lighthouse": "^2.2.2"
+  },
+  "dependencies": {}
+}
